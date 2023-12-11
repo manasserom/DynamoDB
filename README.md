@@ -1,3 +1,4 @@
 "# DynamoDB" 
-.[!IMPORTANT].
+
+[!IMPORTANT]
 Revisar las credenciales de AWS
