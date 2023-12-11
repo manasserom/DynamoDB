@@ -131,3 +131,8 @@ def readDynamo():
 
 #uploadDynamo(data)
 readDynamo()
+
+#Crear .env con:
+#Aws_access_key_id = Access key ID
+#Aws_secret_access_key = Secret access key
+#Region_name = TU REGION
