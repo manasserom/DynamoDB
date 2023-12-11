@@ -1,3 +1,3 @@
 
-[!IMPORTANT]
-Revisar las credenciales de AWS
+> [!CAUTION]
+> Revisar las credenciales de AWS.
